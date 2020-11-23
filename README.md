@@ -1,4 +1,4 @@
-some helix plugins made by gumlefar and me. we won't be providing support for these as of now, use them as a base for development.
+some helix plugins made by cotz. we won't be providing support for these as of now, use them as a base for development.
 
 ## simplecrossserver
 *You need a mysql server setup for this to work, as you need a shared database for characters to appear in between servers.*
